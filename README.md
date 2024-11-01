@@ -1,0 +1,2 @@
+# WebAssemblyBlazorAppTemplate
+WebAssembly Blazor アプリを作成するためのテンプレート
